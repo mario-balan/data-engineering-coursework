@@ -1,0 +1,8 @@
+# scala sbt
+bin/
+project/
+target/
+build/
+*.class
+*.jar
+*.swp
