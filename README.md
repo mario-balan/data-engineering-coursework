@@ -1,5 +1,7 @@
 ### Some informal steps in Data Engineering
 
+#### NOTE: This repository went stale and will probably remain like this for a long while.
+
 *(the discipline took precedence over the previously intended curriculum for the second semester of 2020 as things developed)*
 
 - the main goal is to sketch a somewhat formal yet asymmetric curriculum out of general ideas collected from:
